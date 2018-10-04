@@ -67,7 +67,7 @@
     "versionPublish": "4.8.4",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
+    "robotsSwitcher": "on",
     "siteUrl": "http://geekyakshay.github.io",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/small-logo-100x100.png",
