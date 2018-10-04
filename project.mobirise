@@ -75,9 +75,9 @@
     "robotsSwitcher": "on",
     "siteUrl": "http://geekyakshay.github.io",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/small-logo-100x100.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ga-logo-transparent-128x131.png",
     "noImageResize": "",
-    "google-analytics": "Learn-Make-Share-Repeat\r\n\r\nTeam of Nerds! Who are Passionate Graphic Designers.\r\n\r\nWe learn, Share, Resolve your Queries !\r\nBecause, We believe in Sharing. B)\r\n\r\nContact us for Social Marketing and Media Production.",
+    "google-analytics": "Learn-Make-Share-Repeat\r\n\r\nTeam of Nerds! Who are Passionate Graphic Designers.\r\n\r\nWe learn, Share, Resolve your Queries !\r\nBecause, We believe in Sharing. B)",
     "cookiesAlert": "",
     "gdpr": "",
     "sitemapSwitcher": "on"
